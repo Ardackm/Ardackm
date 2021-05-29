@@ -7,5 +7,5 @@ programming languages
 
 follow my social media account
 
-instagram: https://instagram.com/ardackmm
+instagram: https://instagram.com/ardackmm <br>
 youtube: https://www.youtube.com/channel/UCevwol33uR1tMIMatfBhvmg
