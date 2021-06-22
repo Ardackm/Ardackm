@@ -3,7 +3,7 @@
 Hello, I am Muhammet Arda and I am a front-end developer, I have done many projects so far, you can see some of them on my github profile.
 
 programming languages <br>
-​​I know: HTML5, CSS3 and JavaScript
+​​I know: HTML5, CSS3 and JavaScript, Jquery Bootstrap
 
 follow my social media account
 
