@@ -9,3 +9,11 @@ follow my social media account
 
 instagram: https://instagram.com/ardackmm <br>
 web site: https://ardackm.github.io/portfolio-ardackm/
+
+Most used language
+
+<details>
+  <summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  </summary>
+</details>
