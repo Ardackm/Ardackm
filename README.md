@@ -13,7 +13,6 @@ web site: https://ardackm.github.io/portfolio-ardackm/
 Most used language
 
 <details>
-  <summary>
+  <summary>Most used language>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-  </summary>
 </details>
