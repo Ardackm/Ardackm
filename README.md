@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ardackm
+- 👋 Hi, I’m Muhammet Arda
 
-Hello, I am Muhammet Arda and I am a front-end developer, I have done many projects so far, you can see some of them on my github profile.
+Hello, I am Muhammet Arda Çakmak and I am a front-end developer, I have done many projects so far, you can see some of them on my github profile.
 
 programming languages <br>
 ​​I know: HTML5, CSS3 and JavaScript, Jquery Bootstrap
