@@ -14,5 +14,5 @@ Most used language
 
 <details>
 <summary>:bulb: Most used language</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?Ardackm=anuraghazra&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
 </details>
