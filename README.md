@@ -10,9 +10,14 @@ follow my social media account
 instagram: https://instagram.com/ardackmm <br>
 web site: https://ardackm.github.io/portfolio-ardackm/
 
-Most used language
+Most used language&Profile Stats
 
 <details>
 <summary>:bulb: Most used language</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
+</details>
+
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
 </details>
