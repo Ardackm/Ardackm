@@ -4,7 +4,7 @@ Hello, I am Muhammet Arda Çakmak and I am a front-end developer, I have done ma
 
 programming languages 
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
