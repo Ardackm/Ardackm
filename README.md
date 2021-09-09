@@ -16,7 +16,7 @@ programming languages <br>
 follow my social media account
 
 instagram: https://instagram.com/ardackmm <br>
-web site: https://ardackm.github.io/portfolio-ardackm/
+web site: https://portfolio-ardackm.netlify.app/
 
 Most used language&Profile Stats
 
