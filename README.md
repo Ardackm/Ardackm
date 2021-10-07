@@ -31,7 +31,7 @@ Contact Me
 </a>
 
 <a href="https://twitter.com/ardackm" target="_blank">
-  <img src=""https://steamcommunity.com/id/ataegeasilturk" target="_blank" alt="twitter">
+  <img src=""https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="twitter">
 </a>
 
 <br>
