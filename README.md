@@ -47,3 +47,7 @@ Most used language&Profile Stats
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Ardackm&theme=radical" >
 </details>
+
+🎧 Now Playing
+
+[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/51pdz5yr00u4akqk3zn7byuv1?si=107588d36e4f4b84)
