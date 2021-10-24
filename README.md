@@ -34,10 +34,6 @@ Contact Me
     <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"> 
 </a>
 
-<a href="https://instagram.com/ardackmm" target="_blank">
-  <img src="https://www.pngkey.com/png/detail/72-722799_instagram-button-follow-us-on-instagram-logo-png.png" alt="instagram">
-</a>
-
 <br>
 
 Most used language&Profile Stats
