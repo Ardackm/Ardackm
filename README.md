@@ -35,7 +35,7 @@ Contact Me
 </a>
 
 <a href="https://instagram.com/ardackmm" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJ7nvGvD6rvsZoH9DgeCv5ZHF2bh4ModEiA&usqp=CAU" alt="instagram">
+  <img src="https://www.pngkey.com/png/detail/72-722799_instagram-button-follow-us-on-instagram-logo-png.png" alt="instagram">
 </a>
 
 <br>
