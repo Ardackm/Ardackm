@@ -35,7 +35,7 @@ Contact Me
 </a>
 
 <a href="https://instagram.com/ardackmm" target="_blank">
-  <img src="https://www.1gündeboya.com.tr/wp-content/uploads/2019/09/Instagram-Button.png" alt="instagram">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJ7nvGvD6rvsZoH9DgeCv5ZHF2bh4ModEiA&usqp=CAU" alt="instagram">
 </a>
 
 <br>
