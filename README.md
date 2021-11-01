@@ -15,7 +15,7 @@ programming languages <br>
 
 follow my social media account
 
-instagram: https://instagram.com/ardackmm <br>
+instagram: https://instagram.com/qaarda <br>
 web site: https://portfolio-ardackm.netlify.app/
 
 Contact Me
