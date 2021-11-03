@@ -52,4 +52,5 @@ Most used language&Profile Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Ardackm&theme=radical" >
 </details>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:791635948609339422)](https://discord.com/users/:791635948609339422)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/791635948609339422?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/791635948609339422)
+
