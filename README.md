@@ -18,8 +18,6 @@ follow my social media account
 instagram: https://instagram.com/qaarda <br>
 web site: https://portfolio-ardackm.netlify.app/
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/791635948609339422)](https://discord.com/users/791635948609339422)
-
 Contact Me
 
 <br>
