@@ -34,6 +34,9 @@ Contact Me
     <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"> 
 </a>
 
+<a href="https://linkedin.com/in/ardackm/.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin">
+
 <a href="https://instagram.com/qaarda" target="_blank">
   <img src="https://camo.githubusercontent.com/7e5ea6500c36f6cca132b99adbf3f7283c00742c0b0cca9515f0099d292b0494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2532302d4443333137352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram">
 </a>
@@ -44,7 +47,7 @@ Most used language&Profile Stats
 
 <details>
 <summary>:bulb: Most used language</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Ardackm=anuraghazra&layout=compact" >
 </details>
 
 <details>
