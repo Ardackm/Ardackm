@@ -51,5 +51,3 @@ Most used language&Profile Stats
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Ardackm&theme=radical" >
 </details>
-
-![snake gif](https://github.com/reeyhanyilmaz/reeyhanyilmaz/blob/output/github-contribution-grid-snake.gif)
