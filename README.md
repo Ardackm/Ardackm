@@ -5,7 +5,7 @@ Hello, I am Muhammet Arda Çakmak and I am a front-end developer, I have done ma
 programming languages <br>
 
 <p aling="left" style="padding: 5px">
-  <[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,docker,py)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django,docker,py">
 </p>
 
 <br>
