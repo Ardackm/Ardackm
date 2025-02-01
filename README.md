@@ -5,10 +5,7 @@ Hello, I am Muhammet Arda Çakmak and I am a front-end developer, I have done ma
 programming languages <br>
 
 <p aling="left" style="padding: 5px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50"/>
+  <[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,django,docker,py)](https://skillicons.dev)
 </p>
 
 <br>
@@ -16,7 +13,7 @@ programming languages <br>
 follow my social media account
 
 instagram: https://instagram.com/qaarda <br>
-web site: https://ardackm.site/
+web site: https://ardackm.netlify.app
 
 Contact Me
 
