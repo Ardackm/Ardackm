@@ -20,7 +20,7 @@ Contact Me
 <br>
 
 <a href="https://discord.com/users/791635948609339422" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
+  <img src="https://skillicons.dev/icons?i=discord)" alt="discord">
 </a>
 
 <a href="mailto: mardacakmak07@gmail.com" target="_blank">
