@@ -36,10 +36,6 @@ Contact Me
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"> 
 </a>
 
-<a href="https://youtube.com/@ardackm" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" alt="youtube">
-</a>
-  
 <a href="https://discord.com/users/791635948609339422" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="discord">
 </a>
