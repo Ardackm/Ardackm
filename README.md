@@ -13,7 +13,7 @@ programming languages <br>
 follow my social media account
 
 instagram: https://instagram.com/qaarda <br>
-web site: https://ardackm.netlify.app
+web site: https://web.ardackm.xyz
 
 Contact Me
 
