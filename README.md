@@ -14,7 +14,7 @@ programming languages <br>
 # Back end
 
 <p aling="left" style="padding: 5px">
-  <img src="https://skillicons.dev/icons?i=js,docker,py,nodejs,django,nodejs">
+  <img src="https://skillicons.dev/icons?i=js,docker,py,nodejs,django,postgres">
 </p>
 
 <br>
