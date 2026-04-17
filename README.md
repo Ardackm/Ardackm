@@ -4,8 +4,17 @@ Hello, I am Muhammet Arda Çakmak and I am a front-end developer, I have done ma
 
 programming languages <br>
 
+Front end
 <p aling="left" style="padding: 5px">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,django,docker,py,nodejs">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,nextjs,react">
+</p>
+
+<br>
+
+Back end
+
+<p aling="left" style="padding: 5px">
+  <img src="https://skillicons.dev/icons?i=js,docker,py,nodejs,django,nodejs">
 </p>
 
 <br>
