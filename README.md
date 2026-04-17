@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Muhammet Arda
+# - 👋 Hi, I’m Muhammet Arda
 
 Hello, I am Muhammet Arda Çakmak and I am a front-end developer, I have done many projects so far, you can see some of them on my github profile.
 
 programming languages <br>
 
-Front end
+# Front end
 <p aling="left" style="padding: 5px">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,nextjs,react">
 </p>
 
 <br>
 
-Back end
+# Back end
 
 <p aling="left" style="padding: 5px">
   <img src="https://skillicons.dev/icons?i=js,docker,py,nodejs,django,nodejs">
@@ -19,7 +19,7 @@ Back end
 
 <br>
 
-follow my social media account
+# follow my social media account
 
 instagram: https://instagram.com/qaarda <br>
 web site: https://web.ardackm.xyz
